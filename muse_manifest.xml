@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bayterek.github.io" resolutions="1x" timestamp="1471429673771">
+  <folder name="css">
+    <file name="site_global.css" crc="86250032"/>
+    <file name="index.css" crc="3923807441" ref="index"/>
+    <file name="iefonts_index.css" crc="31125983" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="form_check.php" crc="509957191" ref="index"/>
+    <file name="form_process.php" crc="4180660026" ref="index"/>
+    <file name="recaptchalib.php" crc="385583985" ref="index"/>
+    <file name="form-u1664.php" crc="4060521498" ref="index"/>
+    <file name="form-u907.php" crc="3895533720" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header_bg.jpg" crc="4207883642" ref="index"/>
+    <file name="play-u800.png" crc="3865661752" ref="index"/>
+    <file name="play-u800-r.png" crc="4159420281" ref="index"/>
+    <file name="file-u802.png" crc="317858073" ref="index"/>
+    <file name="file-u802-r.png" crc="210414201" ref="index"/>
+    <file name="u83-4.png" crc="4113333877" ref="index"/>
+    <file name="u105-4.png" crc="4236169990" ref="index"/>
+    <file name="u1682-17.png" crc="3970889374" ref="index"/>
+    <file name="u1682-17-r.png" crc="3839966546" ref="index"/>
+    <file name="u1682-17-m.png" crc="4284150249" ref="index"/>
+    <file name="u1682-17-fs.png" crc="4039172984" ref="index"/>
+    <file name="recaptchamodeaudio.png" crc="321387380" ref="index"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="518349802" ref="index"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="4104960468" ref="index"/>
+    <file name="recaptchamodeimage.png" crc="484269603" ref="index"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="4085552177" ref="index"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="113419217" ref="index"/>
+    <file name="recaptcharefresh.png" crc="47393460" ref="index"/>
+    <file name="recaptcharefreshrollover.jpg" crc="148459208" ref="index"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4076377908" ref="index"/>
+    <file name="recaptchahelp.png" crc="131403934" ref="index"/>
+    <file name="recaptchahelprollover.jpg" crc="392188070" ref="index"/>
+    <file name="recaptchahelpmousedown.jpg" crc="3938251376" ref="index"/>
+    <file name="bg_004.jpg" crc="36453866" ref="index"/>
+    <file name="u147-4.png" crc="4048820392" ref="index"/>
+    <file name="beluha_01.jpg" crc="3990533312" ref="index"/>
+    <file name="harhira_01.jpg" crc="226910838" ref="index"/>
+    <file name="tsambagarav_uul.jpg" crc="368021475" ref="index"/>
+    <file name="kuyten_uul_01.jpg" crc="4211507374" ref="index"/>
+    <file name="munh-hayrhan-uul.jpg" crc="3935082522" ref="index"/>
+    <file name="tabin_bogdo_ola_01.jpg" crc="108757073" ref="index"/>
+    <file name="harhira.jpg" crc="65685153" ref="index"/>
+    <file name="bg_002.jpg" crc="291357393" ref="index"/>
+    <file name="client_01.jpg" crc="307471851" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="client_03.jpg" crc="3933949643" seo="true" ref="index"/>
+    <file name="client_09.jpg" crc="535124148" seo="true" ref="index"/>
+    <file name="team_member_02-crop-u2455.jpg" crc="3857975610" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="link.png" crc="4124859964" seo="true" ref="index"/>
+    <file name="oksana.jpg" crc="347581483" ref="index"/>
+    <file name="persona21.png" crc="4021762563" ref="index"/>
+    <file name="bg_003.jpg" crc="147932295" ref="index"/>
+    <file name="bg_005.jpg" crc="3839401529" ref="index"/>
+    <file name="u909-17.png" crc="160304603" ref="index"/>
+    <file name="u909-17-r.png" crc="433423038" ref="index"/>
+    <file name="u909-17-m.png" crc="433423038" ref="index"/>
+    <file name="u909-17-fs.png" crc="160304603" ref="index"/>
+    <file name="bg_006.jpg" crc="3882976330" ref="index"/>
+    <file name="logo_text_120.png" crc="373709969" ref="index"/>
+  </folder>
+  <file name="index.html" crc="272493421" seo="true" mt="1471429214209" redirect="true"/>
+</manifest>
