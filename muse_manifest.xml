@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bayterek.github.io" resolutions="1x" timestamp="1472570967485">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bayterek.github.io" resolutions="1x" timestamp="1472575793855">
   <folder name="css">
-    <file name="site_global.css" crc="86250032"/>
-    <file name="index.css" crc="378824767" ref="index"/>
-    <file name="iefonts_index.css" crc="3868602522" ref="index"/>
+    <file name="site_global.css" crc="439200230"/>
+    <file name="index.css" crc="4280240236" ref="index"/>
+    <file name="iefonts_index.css" crc="66987963" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -21,6 +21,8 @@
     <file name="form_process.php" crc="4149049960" ref="index"/>
     <file name="form-u907.php" crc="4189612550" ref="index"/>
     <file name="require.js" crc="228336483" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
     <file name="play-u800.png" crc="3865661752" ref="index"/>
@@ -29,7 +31,7 @@
     <file name="file-u802-r.png" crc="210414201" ref="index"/>
     <file name="header_bg.jpg" crc="4207883642" ref="index"/>
     <file name="u83-4.png" crc="420483208" ref="index"/>
-    <file name="u105-4.png" crc="4083901040" ref="index"/>
+    <file name="u105-4.png" crc="47327031" ref="index"/>
     <file name="bg_004.jpg" crc="36453866" ref="index"/>
     <file name="client_01.jpg" crc="307471851" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -49,6 +51,7 @@
     <file name="bg_006.jpg" crc="3882976330" ref="index"/>
     <file name="logo_new-u9340.png" crc="464029526" ref="index"/>
     <file name="u9588-6.png" crc="175312370" ref="index"/>
+    <file name="dark-purple-blurred-background.jpg" crc="157471470" ref="index"/>
   </folder>
-  <file name="index.html" crc="4101695671" seo="true" mt="1472570957613" redirect="true"/>
+  <file name="index.html" crc="3784478414" seo="true" mt="1472575791206" redirect="true"/>
 </manifest>
