@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bayterek.github.io" resolutions="1x" timestamp="1472198753435">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bayterek.github.io" resolutions="1x" timestamp="1472570967485">
   <folder name="css">
-    <file name="site_global.css" crc="439200230"/>
-    <file name="index.css" crc="439450063" ref="index"/>
-    <file name="iefonts_index.css" crc="357432218" ref="index"/>
+    <file name="site_global.css" crc="86250032"/>
+    <file name="index.css" crc="378824767" ref="index"/>
+    <file name="iefonts_index.css" crc="3868602522" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
@@ -19,7 +19,7 @@
     <file name="form_check.php" crc="474517188" ref="index"/>
     <file name="form_throttle.php" crc="495784356" ref="index"/>
     <file name="form_process.php" crc="4149049960" ref="index"/>
-    <file name="form-u907.php" crc="3895533720" ref="index"/>
+    <file name="form-u907.php" crc="4189612550" ref="index"/>
     <file name="require.js" crc="228336483" ref="index"/>
   </folder>
   <folder name="images">
@@ -28,8 +28,8 @@
     <file name="file-u802.png" crc="317858073" ref="index"/>
     <file name="file-u802-r.png" crc="210414201" ref="index"/>
     <file name="header_bg.jpg" crc="4207883642" ref="index"/>
-    <file name="u83-4.png" crc="4009230422" ref="index"/>
-    <file name="u105-4.png" crc="4236169990" ref="index"/>
+    <file name="u83-4.png" crc="420483208" ref="index"/>
+    <file name="u105-4.png" crc="4083901040" ref="index"/>
     <file name="bg_004.jpg" crc="36453866" ref="index"/>
     <file name="client_01.jpg" crc="307471851" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -37,17 +37,18 @@
     <file name="client_09.jpg" crc="535124148" seo="true" ref="index"/>
     <file name="team_member_02-crop-u2455.jpg" crc="3857975610" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="link.png" crc="4124859964" seo="true" ref="index"/>
-    <file name="oksana.jpg" crc="347581483" ref="index"/>
-    <file name="persona21.png" crc="4021762563" ref="index"/>
+    <file name="oksana.jpg" crc="4182013702" ref="index"/>
+    <file name="persona21.png" crc="4268395710" ref="index"/>
     <file name="bg_003.jpg" crc="147932295" ref="index"/>
     <file name="bg_002.jpg" crc="291357393" ref="index"/>
     <file name="bg_005.jpg" crc="3839401529" ref="index"/>
-    <file name="u909-17.png" crc="326582648" ref="index"/>
-    <file name="u909-17-r.png" crc="416787589" ref="index"/>
-    <file name="u909-17-m.png" crc="416787589" ref="index"/>
-    <file name="u909-17-fs.png" crc="326582648" ref="index"/>
+    <file name="u909-17.png" crc="160304603" ref="index"/>
+    <file name="u909-17-r.png" crc="433423038" ref="index"/>
+    <file name="u909-17-m.png" crc="433423038" ref="index"/>
+    <file name="u909-17-fs.png" crc="160304603" ref="index"/>
     <file name="bg_006.jpg" crc="3882976330" ref="index"/>
+    <file name="logo_new-u9340.png" crc="464029526" ref="index"/>
+    <file name="u9588-6.png" crc="175312370" ref="index"/>
   </folder>
-  <file name="index.html" crc="366424271" seo="true" mt="1472153746754" redirect="true"/>
+  <file name="index.html" crc="4101695671" seo="true" mt="1472570957613" redirect="true"/>
 </manifest>
